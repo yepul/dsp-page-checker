@@ -3,5 +3,5 @@
 Requirement: Node.js
 
 Steps to run:
-[1] Run initial_setup.exe
-[2] Run dsp_checker.exe 
+- Run initial_setup.bat
+- Run dsp_checker.bat 
